@@ -10,9 +10,9 @@
 # url is your gh-pages base, following the pattern: username.github.io
 url: https://mcguinesss.github.io
 # baseurl is your github repository's name prefixed with a /
-baseurl: /Animal-Images
+baseurl: /Animal_Images
 # location of code, the full url to your github repository
-source-code: https://github.com/mcguinesss/Animal-Images
+source-code: https://github.com/mcguinesss/Animal_Images
 
 ##########
 # SITE SETTINGS
